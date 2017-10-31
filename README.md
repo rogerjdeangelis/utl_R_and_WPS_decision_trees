@@ -3,8 +3,8 @@ Simple example targeting Spanish speakers for a brochure written in Spanish. Dec
 
     ```  R and SAS/WPS Decision trees: Tageting Spanish speaking responders (because the brocure is in Spanish)                                                       ```
     ```                                                                                                                                                               ```
-    ```  The sweet spots for a marketing campaign are potential responders                                                                                            ```
-    ```                                                                                                                                                               ```
+    ```  The sweet spots for a marketing campaign requires a high number of spanish speaking                                                                       ```
+    ```    Model Results                                                                                                                                             ```
     ```     1. Score > 38                                                                                                                                             ```
     ```     2. Score between 31 and 38 with age decade <=6                                                                                                            ```
     ```                                                                                                                                                               ```
